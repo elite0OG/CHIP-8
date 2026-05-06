@@ -16,3 +16,6 @@ chip_8emu rom/IBM LOGO Z
 
 By Elite0OG(Tarun Kumar Meena)
 
+----TODO ->
+    MAKE AN ASSEMBLER FOR CHIP-8
+    ADD SOUND SUPPORT
