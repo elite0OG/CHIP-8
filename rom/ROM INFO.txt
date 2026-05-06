@@ -1,0 +1,2 @@
+these ROM's are from https://github.com/JamesGriffin/CHIP-8-Emulator/tree/master?tab=GPL-2.0-1-ov-file
+but ROM ZERO & IBM LOGO is form https://github.com/vajradevam/chip8
