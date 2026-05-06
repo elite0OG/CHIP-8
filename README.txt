@@ -6,5 +6,13 @@ given ROM's are form
 Warnning Sound Does not Work. 
 No LICENSE FREE USE For any Thing but ROM's are not mine so you need to look for there LICENSE to use them 
 
+
+--------How to use----------
+chip_8emu is the exe 
+chip_8emu rom/IBM LOGO Z
+1st arg is for rom file path
+2ed arg is for pixel color eg Z  -> for Orange Color, W  -> White Color Pixel
+-----------------------------
+
 By Elite0OG(Tarun Kumar Meena)
 
